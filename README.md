@@ -1,17 +1,29 @@
-<h1># 👋 Olá, eu sou o Cleber Gomes<h1>
+# 👋 Olá, eu sou o Cleber Gomes
 
 🎓 Estudante do último semestre de **Análise e Desenvolvimento de Sistemas**  
-💻 Desenvolvedor **Front-End**, apaixonado por transformar ideias em interfaces funcionais  
+💻 Developer **Front-End**, apaixonado por transformar ideias em interfaces funcionais  
 📚 Sempre aprendendo, evoluindo um pouco mais a cada dia
 
-## 🚀 Skills
+## 🚀 Hard Skills
 
--  HTML5
--  CSS3
--  JavaScript (ES6+)
--  TailwindCSS
--  ReactJS
+- 💡 HTML5, CSS3  
+- ⚙️ JavaScript (ES6+)  
+- 💨 TailwindCSS  
+- ⚛️ ReactJS  
 
+---
+
+## 🤝 Soft Skills
+
+- 🗣️ Comunicativo  
+- 👥 Trabalho em equipe  
+- 🔎 Proativo e curioso  
+- ⏳ Organizado e comprometido  
+- 💬 Sempre aberto a feedbacks  
+- 🚀 Foco em crescimento e aprendizado contínuo
+
+---
+  
 ## 📈 Em evolução constante
 
 Sou movido pela curiosidade e pela vontade de crescer. Todos os dias busco aprender algo novo, seja estudando tecnologias modernas ou criando projetos próprios para praticar.
@@ -24,7 +36,7 @@ Sou movido pela curiosidade e pela vontade de crescer. Todos os dias busco apren
 
 ## 🌐 Onde me encontrar
 
-- [(https://www.linkedin.com/in/clebergomes-dev/)]
+- https://www.linkedin.com/in/clebergomes-dev/
 - cleber_slip@hotmail.com
 
 ---
