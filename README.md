@@ -23,7 +23,15 @@
 - 🚀 Foco em crescimento e aprendizado contínuo
 
 ---
-  
+
+## 📊 Contribuições e Atividade
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clebinho1994&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clebinho1994&layout=compact&theme=radical)
+
+---
+
 ## 📈 Em evolução constante
 
 Sou movido pela curiosidade e pela vontade de crescer. Todos os dias busco aprender algo novo, seja estudando tecnologias modernas ou criando projetos próprios para praticar.
