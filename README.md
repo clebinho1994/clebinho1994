@@ -1,52 +1,40 @@
-# 👋 Olá, eu sou o Cleber Gomes
+<h1 align="center">🚀 Cleber Gomes | Front-End Developer</h1>
 
-🎓 Estudante do último semestre de **Análise e Desenvolvimento de Sistemas**  
-💻 Developer **Front-End**, apaixonado por transformar ideias em interfaces funcionais  
-📚 Sempre aprendendo, evoluindo um pouco mais a cada dia
-
-## 🚀 Hard Skills
-
-- 💡 HTML5, CSS3  
-- ⚙️ JavaScript (ES6+)  
-- 💨 TailwindCSS  
-- ⚛️ ReactJS  
+<p align="center">
+  <strong>HTML • CSS • JavaScript • TailwindCSS • ReactJS</strong><br>
+  Último semestre em Análise e Desenvolvimento de Sistemas 📚
+</p>
 
 ---
 
-## 🤝 Soft Skills
-
-- 🗣️ Comunicativo  
-- 👥 Trabalho em equipe  
-- 🔎 Proativo e curioso  
-- ⏳ Organizado e comprometido  
-- 💬 Sempre aberto a feedbacks  
-- 🚀 Foco em crescimento e aprendizado contínuo
+## 👨‍💻 Sobre mim
+Desenvolvedor apaixonado por transformar ideias em soluções reais com código. Cada projeto aqui representa uma etapa da minha jornada como dev front-end.
 
 ---
 
-## 📊 Contribuições e Atividade
+## 🧩 Projetos em Destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clebinho1994&show_icons=true&theme=radical)
+### 🟢 [Buscador de Signos](https://github.com/seunome/buscador-signos)
+<img src="https://github.com/seunome/buscador-signos/blob/main/preview.png" width="100%"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clebinho1994&layout=compact&theme=radical)
-
----
-
-## 📈 Em evolução constante
-
-Sou movido pela curiosidade e pela vontade de crescer. Todos os dias busco aprender algo novo, seja estudando tecnologias modernas ou criando projetos próprios para praticar.
-
-## 🎯 Objetivos
-
-- Aprimorar meu conhecimento em **React** e **consumo de APIs**
-- Avançar para o **back-end com Node.js e bancos de dados**
-- Construir soluções úteis que possam impactar positivamente as pessoas
-
-## 🌐 Onde me encontrar
-
-- https://www.linkedin.com/in/clebergomes-dev/
-- cleber_slip@hotmail.com
+> Projeto que identifica o signo com base na data de nascimento. Feito com HTML, CSS, Bootstrap e XML.
 
 ---
 
-🛠️ **Portfólio em construção... projetos chegando!**
+### 🔵 [Gerador de Código de Barras ITF](https://github.com/seunome/gerador-barras)
+<img src="https://github.com/seunome/gerador-barras/blob/main/preview.png" width="100%"/>
+
+> Sistema em JavaScript para gerar códigos de barras ITF de forma dinâmica.
+
+---
+
+### 🟡 [Site para Igreja Batista](https://github.com/seunome/site-igreja)
+<img src="https://github.com/seunome/site-igreja/blob/main/preview.png" width="100%"/>
+
+> Landing page responsiva, criada do zero com foco em acessibilidade e design limpo.
+
+---
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/seunome) • [cleber@email.com](mailto:cleber@email.com)
+
